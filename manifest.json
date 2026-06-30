@@ -12,13 +12,13 @@
       "src": "https://srbrey.github.io/metritaxeo/icono-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any" 
     },
     {
       "src": "https://srbrey.github.io/metritaxeo/icono-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any" 
     }
   ]
 }
