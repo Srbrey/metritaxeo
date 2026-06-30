@@ -2,6 +2,8 @@ const CACHE_NAME = 'metritaxeo-cache-v1';
 const ASSETS = [
   'https://srbrey.github.io/metritaxeo/',
   'https://srbrey.github.io/metritaxeo/manifest.json',
+  'https://srbrey.github.io/metritaxeo/icono-192.png',
+  'https://srbrey.github.io/metritaxeo/icono-512.png',
   'https://unpkg.com/tesseract.js@v2.1.0/dist/tesseract.min.js',
   'https://cdn.jsdelivr.net/npm/chart.js',
   'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js'
